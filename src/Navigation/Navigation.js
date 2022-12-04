@@ -6,7 +6,7 @@ export default function Navigation() {
             <NavLink to="/angebote" end>
                 Angebote
             </NavLink>
-            <NavLink to="/kontakte" end>
+            <NavLink to="/kontakte" >
                 Kontakt
             </NavLink>
         </div>
