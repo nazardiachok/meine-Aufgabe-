@@ -13,6 +13,7 @@ function App() {
 
   return (
     <div className="App">
+      <></>
       <Navigation></Navigation>
       <Routes>
         <Route path="/angebote" 
