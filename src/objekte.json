@@ -1,0 +1,137 @@
+[
+	{
+		"id": "1",
+		"type": "A",
+        "prod": "Samsung XP",
+        "ram": "128GB",
+        "color": "Paleblue",
+		"price": 21194,
+		"promotionPrice": 20894
+	},
+	{
+		"id": "2",
+		"type": "B",
+        "prod": "Samsung XP",
+        "ram": "256GB",
+        "color": "Rosé",
+		"price": 23894,
+		"promotionPrice": 22894
+	},
+	{
+		"id": "3",
+		"type": "C",
+        "prod": "Samsung Galaxy S22",
+        "ram": "128GB",
+        "color": "Black",
+		"price": 25999,
+		"promotionPrice": 25894
+	},
+	{
+		"id": "4",
+		"type": "B",
+        "prod": "Apple iPhone 14",
+        "ram": "128GB",
+        "color": "Skyirgendwas",
+		"price": 25999,
+		"promotionPrice": 25894
+	},
+	{
+		"id": "5",
+		"type": "A",
+        "prod": "Apple iPhone 13",
+        "ram": "64GB",
+        "color": "Coral",
+		"price": 26999,
+		"promotionPrice": 26894
+	},
+	{
+		"id": "6",
+		"type": "C",
+        "prod": "Google Pixel 7",
+        "ram": "128GB",
+        "color": "White",
+		"price": 27994,
+		"promotionPrice": 27094
+	},
+	{
+		"id": "7",
+		"type": "B",
+        "prod": "Google Pixel 7",
+        "ram": "128GB",
+        "color": "Champagne",
+		"price": 26999,
+		"promotionPrice": 26894
+	},
+	{
+		"id": "8",
+		"type": "A",
+        "prod": "Xiaomi 12X",
+        "ram": "265GB",
+        "color": "Moss",
+		"price": 27999,
+		"promotionPrice": 27094
+	},
+	{
+		"id": "9",
+		"type": "B",
+        "prod": "Xiaomi 12X",
+        "ram": "128GB",
+        "color": "Dark Moss",
+		"price": 26994,
+		"promotionPrice": 26894
+	},
+	{
+		"id": "10",
+		"type": "B",
+        "prod": "Xiaomi Poco F4",
+        "ram": "64GB",
+        "color": "Chalk",
+		"price": 27199,
+		"promotionPrice": 27094
+	},
+	{
+		"id": "11",
+		"type": "B",
+        "prod": "Samsung Z Flip4",
+        "ram": "128GB",
+        "color": "Sunflower",
+		"price": 30994,
+		"promotionPrice": 30094
+	},
+	{
+		"id": "12",
+		"type": "A",
+		"price": 24999,
+        "prod": "Samsung Galaxy Z Fold4 5G",
+        "ram": "256GB",
+        "color": "Arcticfrostblueishwhite",
+		"promotionPrice": 0
+	},
+	{
+		"id": "13",
+		"type": "C",
+        "prod": "Apple iPhone SE Ultra",
+        "ram": "1TB",
+        "color": "Deepthroad",
+		"price": 21199,
+		"promotionPrice": 0
+	},
+	{
+		"id": "14",
+		"type": "B",
+        "prod": "Xiaomi Redmi 10C",
+        "ram": "64GB",
+        "color": "Cactus",
+		"price": 39999,
+		"promotionPrice": 0
+	},
+	{
+		"id": "15",
+		"type": "B",
+        "prod": "Sony Xperia PRO-I",
+        "ram": "256GB",
+        "color": "Siintää",
+		"price": 25100,
+		"promotionPrice": 0
+	}
+]
