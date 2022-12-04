@@ -9,7 +9,7 @@ function Angebote({objects}) {
                 {objects.map(item=>
                 <BoxItem>
                     <Item>Produktname: <span>{item.prod}</span></Item>
-                    <Item>Preis: <span>{item.price}</span></Item>
+                    <Item>Preis: <span>{item.promotionPrice === 0 ? item.price : item.promotionPrice}, {item.promotionPrice ? "(das ist promotion Preis)" : ""}</span></Item>
                     <Item>Speichergrösse: <span>{item.ram}</span></Item>
                     <Item>Handy-Type: <span>{item.type}</span></Item>
                     <Item>Farbe: <span>{item.color}</span></Item>

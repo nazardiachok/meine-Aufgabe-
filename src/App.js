@@ -15,7 +15,7 @@ function App() {
       <Navigation></Navigation>
       <Routes>
         <Route path="/angebote" 
-        element={<Angebote objects={objects}
+        element={<Angebote objects={objects} 
         ></Angebote>} >
 
         </Route>
