@@ -6,7 +6,9 @@ function Angebote({objects}) {
             <Info>Angebote:</Info>
 
             <div>
-                {objects.map(item=>
+                {objects
+                .sort((a,b)=>a.price-b.price)
+                .map(item=>
                 <BoxItem>
                     <Item>Produktname: <span>{item.prod}</span></Item>
                     <Item>Preis: <span>{item.promotionPrice === 0 ? item.price : item.promotionPrice} $, {item.promotionPrice ? "(das ist promotion Preis)" : ""}</span></Item>
