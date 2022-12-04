@@ -5,7 +5,7 @@ function Angebote({objects}) {
         <Page>
             <Info>Angebote:</Info>
 
-            <div>
+            <div >
                 {objects
                 .sort((a,b)=>a.price-b.price)
                 .map(item=>
